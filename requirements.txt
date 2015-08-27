@@ -1,0 +1,2 @@
+mongoengine==0.10.0
+fake-factory==0.5.0
